@@ -1,0 +1,5 @@
+The repetier software download website :
+http://www.repetier.com/download-now/
+
+FTDI usb driver download website :
+http://www.ftdichip.com/Drivers/VCP.htm< 8:44:55 PM: FIRMWARE_NAME:Marlin V1; Sprinter/grbl mashup for gen6 FIRMWARE_URL:https://github.com/ErikZalm/Marlin/ PROTOCOL_VERSION:1.0 MACHINE_TYPE:X3A_8 EXTRUDER_COUNT:1 UUID:00000000-0000-0000-0000-000000000000
